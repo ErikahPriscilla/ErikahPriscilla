@@ -1,4 +1,4 @@
-# 👋 Oi! Eu sou Erika Priscilla
+# Oi! Eu sou Erika Priscilla
 
 📍 Brasília - DF  
 💻 **Desenvolvedora Front-End em Formação**
