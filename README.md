@@ -1,57 +1,63 @@
-# Oi! Eu sou Erika Priscilla
+# Olá, sou a Erika Priscilla! 👋
 
-📍 Brasília - DF  
-💻 **Desenvolvedora Front-End em Formação**
+<p align="center">
+  <b>📍 Brasília - DF, Brasil</b> | 💻 <b>Desenvolvedora Front-End em Formação</b>
+</p>
 
-Cursando **Análise e Desenvolvimento de Sistemas** e concluindo o **Técnico em Informática**. Apaixonada por criar interfaces limpas, intuitivas e que resolvam problemas reais. Buscando minha **primeira oportunidade** como dev front-end! 🚀
+<p align="center">
+  Estudante de <b>Análise e Desenvolvimento de Sistemas</b> (Facint) e Técnica em <b>Informática</b> (ETB).<br>
+  Participante do programa <b>Bolsa Futuro Digital</b> (React) e da capacitação <b>EmpreendAIoT</b> (IoT, IA e Nuvem no Instituto Hardware).<br>
+  <i>Apaixonada por criar interfaces limpas, intuitivas e por aprender tecnologias emergentes. Buscando oportunidade de estágio! 🚀</i>
+</p>
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+### 💻 Tecnologias & Ferramentas
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
-**Também trabalho com:** Git, GitHub, Vite, Design Responsivo, Noções de UX
-
----
-
-## 🎯 Projetos em Destaque
-
-### 🏢 Sistema de Gestão - Espaço Carmem Lúcia
-**Meu TCC na ETB!** Fiquei responsável pelo Front-End (HTML, CSS, JS). O Back-End foi desenvolvido pelo meu colega [Guilherme Lima](https://github.com/guilhermelima2705).
-
-🔗 [Ver repositório](https://github.com/ErikahPriscilla/sistema-salao)
+> 🛠️ **Áreas de Estudo & Interesses:** Front-End (React), Internet das Coisas (IoT), Inteligência Artificial (IA), Computação em Nuvem, Design Responsivo e UX.
 
 ---
 
-## 📚 Formação & Cursos
+### 🎯 Projetos em Destaque
 
-### 🎓 Formação Acadêmica
-- **ADS - FACINT** (EAD) - Em andamento
-- **Técnico em Informática** - ETB (Concluído em Julho/2026)
-
-### 🚀 Programas & Bootcamps
-- **Santander Bootcamp 2026 - AI React Front-End** (DIO) - Online
-- **Bolsa Futuro Digital em Front-End** - IFB/Instituto Hardware - Presencial
-  - JavaScript, HTML/CSS, SASS, Web Services, Noções de UX
-  - Residência tecnológica em empresas parceiras
+* 🏢 **Sistema de Gestão - Espaço Carmem Lúcia**  
+  *Projeto do TCC na Escola Técnica de Brasília (ETB). Fiquei responsável pelo desenvolvimento Front-End (HTML, CSS, JS), em colaboração com o Back-End.*  
+  👉 **[Ver repositório do projeto](https://github.com/ErikahPriscilla/link-do-repositorio)**
 
 ---
 
-## 🔗 Conecta Comigo!
+### 📚 Formação & Capacitações
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erika-priscilla)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priscillaa.erika@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErikahPriscilla)
+#### 🎓 Formação Acadêmica
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Facint *(Em andamento • Conclusão prevista para Dez/2028)*
+* **Técnico em Informática** — Escola Técnica de Brasília (ETB) *(Concluído em Julho/2026)*
+
+#### 🚀 Cursos e Programas
+* **EmpreendAIoT (160h)** — Instituto Hardware *(Em andamento)* — *Capacitação básica em IoT, Inteligência Artificial e Computação em Nuvem.*
+* **Bolsa Futuro Digital - Formação Front-End em React** — IFB Campus Taguatinga *(2026)*
 
 ---
 
-⭐ *"Código é arte, e cada linha conta uma história. E a minha está só começando!"* ✨
+### 🔗 Vamos Conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erika-priscilla)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priscillaa.erika@gmail.com)
 
 ---
 
-📅 *Última atualização: junho de 2026*
+<p align="center">
+  ⭐ <i>"Código é arte, e cada linha conta uma história. E a minha está só começando!"</i> ✨
+</p>
+
+<p align="right">
+  <sub>📅 Última atualização: Outubro de 2026</sub>
+</p>
