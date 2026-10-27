@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  Estudante de ADS (Facint) e Técnica em Informática (ETB)[cite: 1].<br>
-  Participante dos programas Bolsa Futuro Digital (React)[cite: 1], EmpreendAIoT (IoT, IA e Nuvem no Instituto Hardware)[cite: 1] e Santander (Dados com Python e IA)[cite: 1].<br>
-  <i>Apaixonada por criar interfaces limpas, intuitivas e por aprender tecnologias emergentes. Buscando oportunidade de estágio! 🚀</i>[cite: 1]
+  Estudante de ADS (Facint) e Técnica em Informática (ETB).<br>
+  Participante dos programas Bolsa Futuro Digital (React), EmpreendAIoT (IoT, IA e Nuvem no Instituto Hardware) e Santander (Dados com Python e IA).<br>
+  <i>Apaixonada por criar interfaces limpas, intuitivas e por aprender tecnologias emergentes. Buscando oportunidade de estágio! 🚀</i>
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ### 🎯 Projetos em Destaque
 
 * 🏢 **Sistema de Gestão - Espaço Carmem Lúcia**  
-  TCC na Escola Técnica de Brasília (ETB)[cite: 1]. Desenvolvi o **Front-End** (HTML, CSS e JavaScript)[cite: 1], e o **Back-End** foi feito pelo meu colega [Guilherme Lima](https://github.com/guilherme).  
+  TCC na Escola Técnica de Brasília (ETB). Desenvolvi o **Front-End** (HTML, CSS e JavaScript), e o **Back-End** foi feito pelo meu colega [Guilherme Lima](https://github.com/guilherme).  
   👉 **[Ver repositório do projeto](https://github.com/ErikahPriscilla)**
 
 ---
@@ -39,20 +39,20 @@
 ### 📚 Formação & Cursos
 
 #### 🎓 Formação Acadêmica
-* **Análise e Desenvolvimento de Sistemas** (Facint) | Conclusão: Dez/2028[cite: 1]
-* **Técnico em Informática** (Escola Técnica de Brasília - ETB) | Concluído em Julho/2026[cite: 1]
+* **Análise e Desenvolvimento de Sistemas** (Facint) | Conclusão: Dez/2028
+* **Técnico em Informática** (Escola Técnica de Brasília - ETB) | Concluído em Julho/2026
 
 #### 🚀 Programas e Capacitações
-* **Santander - Dados com Python e IA** (Santander Open Academy / DIO) | 2026[cite: 1]
-* **EmpreendAIoT: IoT, IA e Nuvem** (Instituto Hardware) | 160h (Em andamento)[cite: 1]
-* **Bolsa Futuro Digital: Front-End em React** (IFB Campus Taguatinga) | 2026[cite: 1]
+* **Santander - Dados com Python e IA** (Santander Open Academy / DIO) | 2026
+* **EmpreendAIoT: IoT, IA e Nuvem** (Instituto Hardware) | 160h (Em andamento)
+* **Bolsa Futuro Digital: Front-End em React** (IFB Campus Taguatinga) | 2026
 
 ---
 
 ### 🔗 Vamos Conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erika-priscilla)[cite: 1]
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priscillaa.erika@gmail.com)[cite: 1]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erika-priscilla)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priscillaa.erika@gmail.com)
 
 ---
 
