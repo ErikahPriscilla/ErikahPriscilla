@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  Estudante de <b>Análise e Desenvolvimento de Sistemas</b> (Facint) e Técnica em <b>Informática</b> (ETB)[cite: 1].<br>
-  Participante dos programas <b>Bolsa Futuro Digital</b> (React)[cite: 1], <b>EmpreendAIoT</b> (IoT, IA e Nuvem no Instituto Hardware)[cite: 1] e <b>Santander - Dados com Python e IA</b> (DIO)[cite: 1].<br>
-  <i>Apaixonada por criar interfaces limpas, intuitivas e por aprender tecnologias emergentes. Buscando oportunidade de estágio! 🚀</i>[cite: 1]
+  Estudante de <b>Análise e Desenvolvimento de Sistemas</b> (Facint) e Técnica em <b>Informática</b> (ETB).<br>
+  Participante dos programas <b>Bolsa Futuro Digital</b> (React), <b>EmpreendAIoT</b> (IoT, IA e Nuvem no Instituto Hardware) e <b>Santander - Dados com Python e IA</b> (DIO).<br>
+  <i>Apaixonada por criar interfaces limpas, intuitivas e por aprender tecnologias emergentes. Buscando oportunidade de estágio! 🚀</i>
 </p>
 
 ---
@@ -24,14 +24,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
-> 🛠️ **Áreas de Estudo & Interesses:** Front-End (React), Análise de Dados com Python & IA, Internet das Coisas (IoT), Computação em Nuvem, Design Responsivo e UX[cite: 1].
+> 🛠️ **Áreas de Estudo & Interesses:** Front-End (React), Análise de Dados com Python & IA, Internet das Coisas (IoT), Computação em Nuvem, Design Responsivo e UX.
 
 ---
 
 ### 🎯 Projetos em Destaque
 
 * 🏢 **Sistema de Gestão - Espaço Carmem Lúcia**  
-  *Projeto de TCC na Escola Técnica de Brasília (ETB)[cite: 1]. Fiquei responsável pelo desenvolvimento **Front-End** (HTML, CSS e JavaScript)[cite: 1], e o **Back-End** foi desenvolvido pelo meu colega [Guilherme Lima](https://github.com/guilherme).*  
+  *Projeto de TCC na Escola Técnica de Brasília (ETB). Fiquei responsável pelo desenvolvimento **Front-End** (HTML, CSS e JavaScript), e o **Back-End** foi desenvolvido pelo meu colega [Guilherme Lima](https://github.com/guilherme).*  
   👉 **[Ver repositório do projeto](https://github.com/ErikahPriscilla)**
 
 ---
@@ -39,20 +39,20 @@
 ### 📚 Formação & Capacitações
 
 #### 🎓 Formação Acadêmica
-* **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Facint *(Em andamento • Conclusão prevista para Dez/2028)*[cite: 1]
-* **Técnico em Informática** — Escola Técnica de Brasília (ETB) *(Concluído em Julho/2026)*[cite: 1]
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Facint *(Em andamento • Conclusão prevista para Dez/2028)*
+* **Técnico em Informática** — Escola Técnica de Brasília (ETB) *(Concluído em Julho/2026)*
 
 #### 🚀 Cursos e Programas
-* **Santander - Dados com Python e IA** — Santander Open Academy / DIO *(2026)*[cite: 1]
-* **EmpreendAIoT (160h)** — Instituto Hardware *(Em andamento)* — *Capacitação básica em IoT, Inteligência Artificial e Computação em Nuvem.*[cite: 1]
-* **Bolsa Futuro Digital - Formação Front-End em React** — IFB Campus Taguatinga *(2026)*[cite: 1]
+* **Santander - Dados com Python e IA** — Santander Open Academy / DIO *(2026)*
+* **EmpreendAIoT (160h)** — Instituto Hardware *(Em andamento)* — *Capacitação básica em IoT, Inteligência Artificial e Computação em Nuvem.*
+* **Bolsa Futuro Digital - Formação Front-End em React** — IFB Campus Taguatinga *(2026)*
 
 ---
 
 ### 🔗 Vamos Conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erika-priscilla)[cite: 1]
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priscillaa.erika@gmail.com)[cite: 1]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erika-priscilla)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priscillaa.erika@gmail.com)
 
 ---
 
